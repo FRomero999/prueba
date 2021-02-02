@@ -18,4 +18,8 @@ public class NewMain {
         System.out.println("Hola a todos los de DAW");
     }
     
+    public void saludar(String nombre){
+        System.out.println("Hola "+nombre);
+    }
+    
 }
